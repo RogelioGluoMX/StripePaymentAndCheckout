@@ -1,4 +1,4 @@
-#### StripePaymentAndCheckout
+# StripePaymentAndCheckout
 This repository contains an example Spring Boot application that integrates Stripe for payment processing using Payment Elements and Checkout. The application uses JavaScript for client-side interaction and Thymeleaf to generate dynamic HTML views. Maven is used as the dependency management system.
 
 #### Prerequisites
